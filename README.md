@@ -1,0 +1,2 @@
+# astrozodiac
+Zodiac Signs Tarot
